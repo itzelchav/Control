@@ -1,0 +1,74 @@
+[
+    {
+        "precio": 550.00,
+        "id": 1,
+        "title": "Sesshomaru",
+        "thumbnailUrl": "https://itzelch.000webhostapp.com/funkos/funko1.png"
+    },
+    {
+        "precio": 200.00,
+        "id": 2,
+        "title": "Inuyasha",
+        "thumbnailUrl": "https://itzelch.000webhostapp.com/funkos/funko2.png"
+    },
+    {
+        "precio": 300.00,
+        "id": 3,
+        "title": "Goku-Black",
+        "thumbnailUrl": "https://itzelch.000webhostapp.com/funkos/funko3.jpg"
+    },
+    {
+        "precio": 600.00,
+        "id": 4,
+        "title": "Goku",
+        "thumbnailUrl": "https://itzelch.000webhostapp.com/funkos/funko4.jpg"
+    },
+    {
+        "precio": 600.00,
+        "id": 5,
+        "title": "Goku-Blue",
+        "thumbnailUrl": "https://itzelch.000webhostapp.com/funkos/funko5.jpg"
+    },
+    {
+        "precio": 400.00,
+        "id": 6,
+        "title": "Tanjiro",
+        "thumbnailUrl": "https://itzelch.000webhostapp.com/funkos/funko6.jpg"
+    },
+    {
+        "precio": 350.00,
+        "id": 7,
+        "title": "Gyomei",
+        "thumbnailUrl": "https://itzelch.000webhostapp.com/funkos/funko7.png"
+    },
+    {
+        "precio": 250.00,
+        "id": 8,
+        "title": "Tanjiro-vs-Rui",
+        "thumbnailUrl": "https://itzelch.000webhostapp.com/funkos/funko8.jpg"
+    },
+    {
+        "precio": 700.00,
+        "id": 9,
+        "title": "Bakugo",
+        "thumbnailUrl": "https://itzelch.000webhostapp.com/funkos/funko9.jpg"
+    },
+    {
+        "precio": 500.00,
+        "id": 10,
+        "title": "Eri",
+        "thumbnailUrl": "https://itzelch.000webhostapp.com/funkos/funko10.jpg"
+    },
+    {
+        "precio": 400.00,
+        "id": 11,
+        "title": "Mirio",
+        "thumbnailUrl": "https://itzelch.000webhostapp.com/funkos/funko11.jpg"
+    },
+    {
+        "precio": 550.00,
+        "id": 12,
+        "title": "L",
+        "thumbnailUrl": "https://itzelch.000webhostapp.com/funkos/funko12.jpg"
+    }
+]
