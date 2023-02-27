@@ -34,6 +34,8 @@ enctype="multipart/form-data">
 
 		
 			<button class="submit" type="submit">Enviar Registro</button> 
+	
+	/*Comentario feo*/
 </form>
 
 	</body>
